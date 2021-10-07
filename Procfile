@@ -1,1 +1,1 @@
-web: node YOUR_ENTRYPOINT_APP_FILE.js
+web: node server.js
